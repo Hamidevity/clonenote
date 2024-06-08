@@ -94,9 +94,9 @@ p {
   font-size: 30px;
 }
 .notif-btn {
-  width: 26em;
-  height: 26em;
-  padding: 8em;
+  width: 20em;
+  height: 20em;
+  padding: 3em;
     background: linear-gradient(300deg,deepskyblue,rgb(174, 147, 186),rgb(5, 5, 76));
     background-size: 180% 180%;
     animation: gradient-animation 18s ease infinite;
