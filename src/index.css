@@ -78,7 +78,7 @@ body {
 .rocket {
   position: absolute;
   top: 75%;
-  width: 80px;
+  width: 65px;
   left: calc(50% - 60px);
   .rocket-body {
     width: 80px;
